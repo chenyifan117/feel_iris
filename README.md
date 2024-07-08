@@ -10,4 +10,6 @@ Therefore, in a sense, I want to speak up for Iris in this project. Iris has suc
 I got this idea when I travelled to Toronto. When I woke up on a morning, I realized I was lying on a bed which had a sheet with flower patterns. Those flowers somehow reminded me of Iris and I went like "yeah I knew Iris since I started programming and learning data analysis beacuase it appeared in almost every tutorial of basic packages of python, such as pandas or numpy, but I still don't really know what Iris looks like. So...why not do something for Iris?" So that's where I'm coming from.
 
 To start with, I brainstormed a few ideas using the following the mindmap that I made on 7/6/2024.
-[a relative link](proj_management/brainstorm_for_iris.jpg)
+![a text][brainstorm mindmap]
+
+[brainstorm mindmap]: https://github.com/chenyifan117/feel_iris/blob/main/proj_management/brainstorm_for_iris.jpg
