@@ -12,4 +12,14 @@ I got this idea when I travelled to Toronto. When I woke up on a morning, I real
 To start with, I brainstormed a few ideas using the following the mindmap that I made on 7/6/2024.
 ![a text][brainstorm mindmap]
 
+From mindmap, I realized 5 things I really want to do in this project.
+
+Task | Is it doable on laptop?(Y/N)  | Complexity (0~5)
+--- | --- | ---
+Buy real Iris, put it at home, observe and draw it | N | 1
+Create Iris pattern based on given dataset and make bed sheet using that pattern | Y and N | 2
+Understand driving factor of Iris' selling price | Y and N | 3
+Understand the relationship between Iris' appearance and its smell, then visualize the smell | Y and N | 4
+Make abstract Iris with given dataset and simulate its interaction with each other, insect, sunlight, wind | Y and N | 5  
+
 [brainstorm mindmap]: https://github.com/chenyifan117/feel_iris/blob/main/proj_management/brainstorm_for_iris.jpg
